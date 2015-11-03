@@ -26,7 +26,7 @@ import java.util.List;
  * 
  */
 //Bai mau kiem tra 12
-
+	//ádsadasdasdasdsad
 public class JWhiteBoard extends ReceiverAdapter implements ActionListener, ChannelListener {
     protected String               groupName="";
     private JChannel               channel=null;
